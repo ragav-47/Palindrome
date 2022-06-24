@@ -1,4 +1,6 @@
-# Palindrome
+### EX NO : 02
+### DATE  : 06.04.2022
+# <p align="center">Palindrome</p>
 
 
 ## Aim:
@@ -16,6 +18,9 @@ Use if condition to check whether the string and the reversed string is equal or
 print palindrome if it's equal else print not a palindrome.
 ### Step6:
 stop
+
+<br/><br/><br/><br/><br/><br/><br/>
+
 ## Program:
 ```c#
 using System;
@@ -47,7 +52,7 @@ namespace palindrome
 ```
 ## Output:
 
-![Screenshot (42)](https://user-images.githubusercontent.com/75235488/163756536-57168cd5-70d7-45e4-9f87-aa068a6c5774.png)
+![image](https://user-images.githubusercontent.com/75235488/175523746-8de182d7-6c15-4e02-b88d-ed480fb5ad71.png)
 
 ## Result:
 Thus the C# program to display whether the given string is Palindrome or not is executed successfully.
